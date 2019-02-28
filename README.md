@@ -1,4 +1,4 @@
-# JAVA
+# BASH
 
 My BASH Workshop
 
